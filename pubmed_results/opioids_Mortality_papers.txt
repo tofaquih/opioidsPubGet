@@ -1,0 +1,127 @@
+
+PMC - PMC7067148
+IS  - 1925-8348 (Electronic)
+VI  - 23
+IP  - 1
+DP  - 2020 Mar
+TI  - Canadian Guidelines on Opioid Use Disorder Among Older Adults.
+PG  - 123-34
+AB  - Background: In Canada, rates of hospital admission from opioid overdose are
+      higher for older adults (≥ 65) than younger adults, and opioid use disorder (OUD)
+      is a growing concern. In response, Health Canada commissioned the Canadian
+      Coalition of Seniors’ Mental Health to create guidelines for the prevention,
+      screening, assessment, and treatment of OUD in older adults. Methods: A
+      systematic review of English language literature from 2008–2018 regarding OUD in 
+      adults was conducted. Previously published guidelines were evaluated using AGREE 
+      II, and key guidelines updated using ADAPTE method, by drawing on current
+      literature. Recommendations were created and assessed using the GRADE method.
+      Results: Thirty-two recommendations were created. Prevention recommendations: it 
+      is key to prioritize non-pharmacological and non-opioid strategies to treat acute
+      and chronic noncancer pain. Assessment recommendations: a comprehensive
+      assessment is important to help discern contributions of other medical
+      conditions. Treatment recommendations: buprenorphine is first line for both
+      withdrawal management and maintenance therapy, while methadone, slow-release oral
+      morphine, or naltrexone can be used as alternatives under certain circumstances; 
+      non-pharmacological treatments should be offered as an integrated part of care.
+      Conclusion: These guidelines provide practical and timely clinical
+      recommendations on the prevention, assessment, and treatment of OUD in older
+      adults within the Canadian context.
+FAU - Rieb, Launette M.
+AU  - Rieb LM
+AD  - Department of Family Practice, University of British Columbia, Vancouver, BC
+FAU - Samaan, Zainab
+AU  - Samaan Z
+AD  - Department of Psychiatry, McMaster University, Hamilton, ON
+FAU - Furlan, Andrea D.
+AU  - Furlan AD
+AD  - Department of Medicine, University of Toronto, Toronto, ON
+FAU - Rabheru, Kiran
+AU  - Rabheru K
+AD  - Department of Psychiatry, University of Ottawa, Ottawa, ON
+FAU - Feldman, Sid
+AU  - Feldman S
+AD  - Department of Family and Community Medicine, University of Toronto, Toronto, ON
+FAU - Hung, Lillian
+AU  - Hung L
+AD  - Canadian Gerontological Nurses Association, Toronto, ON
+FAU - Budd, George
+AU  - Budd G
+AD  - Clinical Pharmacist, Vancouver, BC
+FAU - Coleman, Douglas
+AU  - Coleman D
+AD  - Family Physician (in private practice), Comox, BC
+CN  - Canadian Coalition for Seniors’ Mental Health
+LA  - eng
+PT  - Journal Article
+DEP - 20200330
+TA  - Can Geriatr J
+JT  - Canadian Geriatrics Journal
+AID - 10.5770/cgj.23.420 [doi]
+AID - cgj-8-123 [pii]
+SO  - Can Geriatr J. 2020 Mar 30;23(1):123-34. doi:10.5770/cgj.23.420.
+
+PMC - PMC7067152
+IS  - 1925-8348 (Electronic)
+VI  - 23
+IP  - 1
+DP  - 2020 Mar
+TI  - Canadian Guidelines on Alcohol Use Disorder Among Older Adults.
+PG  - 143-8
+AB  - Background: Alcohol use disorder (AUD) is an increasingly common,
+      under-recognized, and under-treated health concern in older adults. Its
+      prevalence is expected to reach unprecedented levels as the Canadian population
+      ages. In response, Health Canada commissioned the Canadian Coalition of Seniors’ 
+      Mental Health to create guidelines for the prevention, screening, assessment, and
+      treatment of AUD in older adults. Methods: A systematic review of English
+      language literature from 2008–2018 regarding AUD in adults was conducted.
+      Previously published guidelines were evaluated using AGREE II, and key guidelines
+      updated using ADAPTE method by drawing on current literature. Recommendations
+      were created and assessed using the GRADE method. Results: Twenty-two
+      recommendations were created. Prevention recommendations: Best advice for older
+      adults who choose to drink is to limit intake to well below the national Low-Risk
+      Alcohol Drinking Guidelines. Screening recommendations: Alcohol consumption
+      should be reviewed and discussed on an annual basis by primary care providers.
+      This type of discussion needs to be normalized and approached in a simple,
+      neutral, straight-forward manner. Assessment recommendations: Positive screens
+      for AUD should be followed by a comprehensive assessment. Once more details are
+      obtained an individualized treatment plan can be recommended, negotiated, and
+      implemented. Treatment recommendations: AUD falls on a spectrum of mild,
+      moderate, and severe. It can also be complicated by concurrent mental health,
+      physical, or social issues, especially in older adults. Naltrexone and
+      Acamprosate pharmacotherapies can be used for the treatment of AUD in older
+      adults, as individually indicated. Psychosocial treatment and support should be
+      offered as part of a comprehensive treatment plan. Conclusion: These guidelines
+      provide practical and timely clinical recommendations on the prevention,
+      assessment, and treatment of AUD in older adults within the Canadian context.
+FAU - Butt, Peter R.
+AU  - Butt PR
+AD  - Department of Family Medicine, University of Saskatchewan, Saskatoon, SK
+FAU - White-Campbell, Marilyn
+AU  - White-Campbell M
+AD  - Baycrest Health Sciences, North York, ON
+FAU - Canham, Sarah
+AU  - Canham S
+AD  - College of Social Work, University of Utah, Salt Lake City, UT, USA
+FAU - Johnston, Ann Dowsett
+AU  - Johnston AD
+FAU - Indome, Eunice O.
+AU  - Indome EO
+AD  - School of Public Health and Health Systems, University of Waterloo, Waterloo, ON
+FAU - Purcell, Bonnie
+AU  - Purcell B
+AD  - London Health Sciences Centre, London, On
+FAU - Tung, Jennifer
+AU  - Tung J
+AD  - Grand River Hospital, Kitchener, ON
+FAU - Van Bussel, Lisa
+AU  - Van Bussel L
+AD  - Department of Psychology, Western University, London, ON
+CN  - Canadian Coalition for Seniors’ Mental Health
+LA  - eng
+PT  - Journal Article
+DEP - 20200330
+TA  - Can Geriatr J
+JT  - Canadian Geriatrics Journal
+AID - 10.5770/cgj.23.425 [doi]
+AID - cgj-8-143 [pii]
+SO  - Can Geriatr J. 2020 Mar 30;23(1):143-8. doi:10.5770/cgj.23.425.
