@@ -1,0 +1,372 @@
+
+PMC - PMC7029326
+PMID- 31771062
+IS  - 1387-2877 (Print)
+IS  - 1875-8908 (Electronic)
+VI  - 73
+IP  - 1
+TI  - The Use of Opioids and Antipsychotics in Elderly with Dementia – Have Opioids
+      Replaced Antipsychotics in Treating Behavioral Symptoms in Dementia?
+PG  - 259-67
+AB  - Background:: Opioids are used with increasing frequency. Elderly with dementia
+      are prescribed opioids more frequent than elderly without. One possible
+      explanation is that opioids may be used not only to treat pain but also
+      behavioral symptoms. Objective:: To test the hypothesis that strong opioid use,
+      especially transdermal formulations, had increased, especially in elderly with
+      dementia, in parallel with a decrease in antipsychotic use. Methods::
+      Population-based cross-sectional study conducted using nationwide Danish
+      registers with data on Denmark’s entire elderly population age ≥65 (2000:
+      n = 802,106; 2015: n = 1,056,476). The registers were used to identify elderly
+      with and without dementia and filled prescriptions for opioids and
+      antipsychotics. Annual prevalence of opioid and antipsychotic use from 2000–2015 
+      was calculated. Results:: Prevalence of opioid use increased by 35% (24.2 to
+      32.5%) among elderly with dementia and by 13% among elderly without (14.9 to
+      16.8%) from 2000–2015. The disproportionate increase in opioid use among elderly 
+      with dementia was mainly driven by an increase in strong opioids (dementia: 11.7 
+      to 23.1%; without dementia: 5.9 to 7.4%). Use of antipsychotics decreased during 
+      the same period (dementia: 31.3 to 19.3%; no dementia: 4.5 to 2.7%). Conclusion::
+      From 2000–2015, use of opioids among the elderly increased with a
+      disproportionately higher increase among elderly with dementia. The parallel
+      decrease in the use of antipsychotics may suggest that opioids to some extent
+      have replaced antipsychotics in managing behavioral symptoms, despite safety
+      concerns and lack of evidence for effect of opioids. Future research should focus
+      on potential risks associated with increased opioid use.
+FAU - Jensen-Dahm, Christina
+AU  - Jensen-Dahm C
+AD  - Department of Neurology, Danish Dementia Research Centre (DDRC), Rigshospitalet –
+      University of Copenhagen, Copenhagen, Denmark
+FAU - Christensen, Ane Nørgaard
+AU  - Christensen AN
+AD  - Department of Neurology, Danish Dementia Research Centre (DDRC), Rigshospitalet –
+      University of Copenhagen, Copenhagen, Denmark
+FAU - Gasse, Christiane
+AU  - Gasse C
+AD  - Depression and Anxiety/Psychosis Research Unit, Aarhus University Hospital
+      Psychiatry, Aarhus N, Denmark
+FAU - Waldemar, Gunhild
+AU  - Waldemar G
+AD  - Department of Neurology, Danish Dementia Research Centre (DDRC), Rigshospitalet –
+      University of Copenhagen, Copenhagen, Denmark
+LA  - eng
+PT  - Journal Article
+PHST- 2019/10/21 [accepted]
+TA  - J Alzheimers Dis
+JT  - Journal of Alzheimer's Disease
+AID - JAD190787 [pii]
+AID - 10.3233/JAD-190787 [doi]
+SO  - J Alzheimers Dis. ;73(1):259-67. doi:10.3233/JAD-190787.
+
+PMC - PMC7039428
+PMID- 32092055
+IS  - 1932-6203 (Electronic)
+VI  - 15
+IP  - 2
+DP  - 2020
+TI  - Consistency between anticholinergic burden scales in the elderly with fractures.
+LID - e0228532
+AB  - Objective: Falls and bone fractures are important causes of morbidity and
+      mortality in the elderly. The objective of this study was to identify the degree 
+      of consistency between the anticholinergic scales used for patients diagnosed
+      with fractures. Methods: This was an analytical agreement study conducted in
+      patients diagnosed with vertebral and nonvertebral fractures in Colombia. The
+      quadratic-weighted kappa coefficient was used to identify the consistency between
+      the Anticholinergic Drug Scale-ADS, Anticholinergic Cognitive Burden Scale-ACB
+      and Anticholinergic Risk Scale-ARS in assessing the prescriptions of fracture
+      patients during the month prior to the fracture, during their stay as an
+      inpatient and at discharge, according to Landis criteria. Results: 220 patients
+      with fractures were included, with a mean age of 75.3±10.3 years, and 68.2% were 
+      women. The ACB scale identified the highest anticholinergic burden (26.8%) in
+      prescriptions made the month before the fracture, and the highest agreement was
+      between ACB and ADS (0.717); during hospitalization and at discharge, the
+      cholinergic antagonists were best identified with ADS (77.7% and 72.1%,
+      respectively), with the best agreement between ACB and ARS (0.613 and 0.568,
+      respectively). The prescription of tramadol was found in 64.1% of hospitalized
+      patients and in 61.4% of patients at the time of discharge. Conclusions: The
+      scales evaluated show marked discrepancies between them, with highly variable
+      frequencies of anticholinergic drugs identified at the different prescription
+      times, and with low agreement among them, which is why the scales are not
+      interchangeable in patients with bone fractures.
+FAU - Valladales-Restrepo, Luis Fernando
+AU  - Valladales-Restrepo LF
+AD  - Grupo de Investigación en Farmacoepidemiología y Farmacovigilancia, Universidad
+      Tecnológica de Pereira-Audifarma S.A, Pereira, Risaralda, Colombia
+FAU - Duran-Lengua, Marlene
+AU  - Duran-Lengua M
+AD  - Universidad de Cartagena, Cartagena, Bolivar, Colombia
+FAU - Castro-Osorio, Edgar Eduardo
+AU  - Castro-Osorio EE
+AD  - Internal Medicine, Geriatrics, Grupo de Investigación en Farmacoepidemiología y
+      Farmacovigilancia, Hospital Universitario de Caldas, Manizales, Colombia
+FAU - Machado-Alba, Jorge Enrique
+AU  - Machado-Alba JE
+AUID- ORCID: 0000-0002-8455-0936
+AD  - Grupo de Investigación en Farmacoepidemiología y Farmacovigilancia, Universidad
+      Tecnológica de Pereira-Audifarma S.A, Pereira, Risaralda, Colombia
+LA  - eng
+PT  - Journal Article
+DEP - 20200224
+PHST- 2019/05/15 [received]
+PHST- 2019/12/30 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0228532 [doi]
+AID - PONE-D-19-13782 [pii]
+SO  - PLoS One. 2020 Feb 24;15(2):. doi:10.1371/journal.pone.0228532.
+
+PMC - PMC7051237
+PMID- 32158307
+IS  - 1308-8734 (Print)
+IS  - 1308-8742 (Electronic)
+VI  - 52
+IP  - 1
+DP  - 2020 Feb
+TI  - Lumbar Erector Spinae Plane Block as a Main Anesthetic Method for Hip Surgery in 
+      High Risk Elderly Patients: Initial Experience with a Magnetic Resonance Imaging.
+PG  - 16-20
+AB  - Objective: Since initial description by Forero for thoracic region, ultrasound
+      guided erector spinae plane (ESP) block has experienced several surgeries for
+      postoperative pain management, chronic pain or surgical anesthesia. Although ESP 
+      block has been reported to provide effective analgesia in the thoracic region,
+      its effect in lumbar region still unclear. In this study we aimed to showed our
+      successful experience with lumbar ESP block as a main anesthetic technique in
+      fifteen high risk elderly patients undergoing hip surgery with mild propofol
+      sedation. Materials and Methods: In this observational study high risk elderly
+      fifteen patients received lumbar ESP block as a main anesthetic technique with
+      mild propofol sedation. 40 mL of local anesthetic mixture (20 mL bupivacaine
+      0.5%, 10 mL lidocaine 2%, and 10 mL normal saline) was administered between the
+      erector spinae muscles and transverse process at the level of the 4th lumbar
+      vertebra. Also we demonstrate magnetic resonance images and discuss the anatomic 
+      basis of lumbar ESP block. Results: All patients’ surgeries were completed
+      without requirement for general anesthesia or local anesthesia infiltration of
+      the surgical site. All patients’ pain scores were <2/10 in the recovery room.
+      Significant contrast spread was observed between the Th12 and L5 transverse
+      process and erector spinae muscle and between multifidus muscle and iliocostal
+      muscle at the L2–4 levels. Contrast material was observed at the anterior of the 
+      transverse process spreading to the paravertebral, foraminal and partially
+      epidural area/spaces and also in the areas where the lumbar nerves enter the
+      psoas muscle. Conclusion: Lumbar ESP block when combined with mild sedoanalgesia 
+      provides adequate and safe anesthesia in high risk elderly patients undergoing
+      hip surgery.
+FAU - Ahiskalioglu, Ali
+AU  - Ahiskalioglu A
+AUID- ORCID: 0000-0002-8467-8171
+AD  - Department of Anesthesiology and Reanimation, Ataturk University School of
+      Medicine, Erzurum, Turkey
+FAU - Tulgar, Serkan
+AU  - Tulgar S
+AUID- ORCID: 0000-0003-1996-7505
+AD  - Department of Anesthesiology and Reanimation, Maltepe University School of
+      Medicine, Istanbul, Turkey
+FAU - Celik, Mine
+AU  - Celik M
+AUID- ORCID: 0000-0002-4718-0921
+AD  - Department of Anesthesiology and Reanimation, Ataturk University School of
+      Medicine, Erzurum, Turkey
+FAU - Ozer, Zeliha
+AU  - Ozer Z
+AUID- ORCID: 0000-0003-3211-4945
+AD  - Department of Anesthesiology and Reanimation, Maltepe University School of
+      Medicine, Istanbul, Turkey
+FAU - Alici, Haci Ahmet
+AU  - Alici HA
+AUID- ORCID: 0000-0001-8057-5899
+AD  - Department of Pain Clinic, Medipol University School of Medicine,Istanbul, Turkey
+FAU - Aydin, Muhammed Enes
+AU  - Aydin ME
+AUID- ORCID: 0000-0001-8491-6566
+AD  - Department of Anesthesiology and Reanimation, Ataturk University School of
+      Medicine, Erzurum, Turkey
+LA  - eng
+PT  - Journal Article
+PHST- 2019/09/17 [received]
+PHST- 2019/10/17 [accepted]
+TA  - Eurasian J Med
+JT  - The Eurasian Journal of Medicine
+AID - 10.5152/eurasianjmed.2020.19224 [doi]
+AID - eajm-52-1-16 [pii]
+SO  - Eurasian J Med. 2020 Feb;52(1):16-20. doi:10.5152/eurasianjmed.2020.19224.
+
+PMC - PMC7031908
+PMID- 32075674
+IS  - 1745-6215 (Electronic)
+VI  - 21
+DP  - 2020
+TI  - The effectiveness of additional thoracic paravertebral block in improving the
+      anesthetic effects of regional anesthesia for proximal humeral fracture surgery
+      in elderly patients: study protocol for a randomized controlled trial.
+LID - 204
+AB  - Background: The innervation of the shoulder-upper-extremity area is complicated
+      and unclear. Regional anesthesia with a brachial plexus and cervical plexus block
+      is probably inadequate for the proximal humeral surgery. Missing blockade of the 
+      T1–T2 nerves may be the reason. We conduct this prospective randomized controlled
+      trial (RCT) to explore whether an additional T2 thoracic paravertebral block
+      (TPVB) can improve the success rate of regional anesthesia for elderly patients
+      in proximal humeral fracture surgery. Methods/design: The patients aged 65 years 
+      or older, referred for anterior-approach proximal humeral fracture surgery, will 
+      be enrolled. Each patient will be randomly assigned 1:1 to receive a combined
+      interscalene brachial plexus with superficial cervical plexus block (IC)
+      (combined interscalene brachial plexus with superficial cervical plexus block) or
+      an IC block combined with thoracic paravertebral block (ICTP) block (combined
+      thoracic paravertebral block with brachial plexus and superficial cervical plexus
+      block). The primary outcome is the success rate of regional anesthesia without
+      rescue analgesic methods. The secondary outcomes are as follows: sensory block at
+      the surgical area, proportion of patients who need rescue anesthesia
+      (intravenously administered remifentanil or conversion to general anesthesia),
+      cumulative doses of intraoperative vasoactive medications and adverse events. The
+      total sample size is estimated to be 80 patients. Discussion: This RCT aims to
+      confirm whether an additional T2 TPVB can provide better anesthetic effects of
+      regional anesthesia with brachial and cervical plexus block in elderly patients
+      undergoing proximal humeral surgery. Trial registration: ClinicalTrials.gov, ID: 
+      NCT03919422. Registered on 19 April 2019.
+FAU - Wang, Xiaofeng
+AU  - Wang X
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+FAU - Zhang, Hui
+AU  - Zhang H
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+FAU - Xie, Zhenwei
+AU  - Xie Z
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+FAU - Zhang, Qingfu
+AU  - Zhang Q
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+FAU - Jiang, Wei
+AU  - Jiang W
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+FAU - Zhang, Junfeng
+AU  - Zhang J
+AD  - 0000 0004 1798 5117grid.412528.8Department of Anesthesiology, Shanghai Jiao Tong 
+      University Affiliated Sixth People’s Hospital, 600 Yishan Road, Shanghai, 200233 
+      China
+LA  - eng
+PT  - Journal Article
+DEP - 20200219
+PHST- 2019/07/27 [received]
+PHST- 2020/01/15 [accepted]
+TA  - Trials
+JT  - Trials
+AID - 4078 [pii]
+AID - 10.1186/s13063-020-4078-9 [doi]
+SO  - Trials. 2020 Feb 19;21:. doi:10.1186/s13063-020-4078-9.
+
+PMC - PMC6953335
+PMID- 31938578
+IS  - 2167-8359 (Electronic)
+VI  - 8
+DP  - 2020
+TI  - EEG alpha activity increased in response to transcutaneous electrical nervous
+      stimulation in young healthy subjects but not in the healthy elderly.
+LID - e8330
+AB  - Transcutaneous Electrical Nerve Stimulation (TENS) is used not only in the
+      treatment of pain but also in the examination of sensory functions. With aging,
+      there is decreased sensitivity to somatosensory stimuli. It is essential to
+      examine the effect of TENS application on the sensory functions in the brain by
+      recording the spontaneous electroencephalogram (EEG) activity and the effect of
+      aging on the sensory functions of the brain during the application. The present
+      study aimed to investigate the effect of the application of TENS on the brain’s
+      electrical activity and the effect of aging on the sensory functions of the brain
+      during application of TENS. A total of 15 young (24.2 ± 3.59) and 14 elderly
+      (65.64 ± 4.92) subjects were included in the study. Spontaneous EEG was recorded 
+      from 32 channels during TENS application. Power spectrum analysis was performed
+      by Fast Fourier Transform in the alpha frequency band (8–13 Hz) for all subjects.
+      Repeated measures of analysis of variance was used for statistical analysis (p < 
+      0.05). Young subjects had increased alpha power during the TENS application and
+      had gradually increased alpha power by increasing the current intensity of TENS
+      (p = 0.035). Young subjects had higher alpha power than elderly subjects in the
+      occipital and parietal locations (p = 0.073). We can, therefore, conclude that
+      TENS indicated increased alpha activity in young subjects. Young subjects had
+      higher alpha activity than elderly subjects in the occipital and somatosensory
+      areas. To our knowledge, the present study is one of the first studies examining 
+      the effect of TENS on spontaneous EEG in healthy subjects. Based on the results
+      of the present study, TENS may be used as an objective method for the examination
+      of sensory impairments, and in the evaluative efficiency of the treatment of pain
+      conditions.
+FAU - Yıldırım, Ebru
+AU  - Yıldırım E
+AD  - Department of Physical Therapy and Rehabilitation/Graduate School of Health
+      Sciences, Istanbul Medipol University, Istanbul, Turkey
+FAU - Güntekin, Bahar
+AU  - Güntekin B
+AUID- ORCID: 0000-0002-0860-0524
+AD  - Department of Biophysics/School of Medicine, Istanbul Medipol University,
+      Istanbul, Turkey
+FAU - Hanoğlu, Lütfü
+AU  - Hanoğlu L
+AD  - REMER, Clinical Electrophysiology, Neuroimaging, and Neuromodulation Lab.,
+      Istanbul Medipol University, Istanbul, Turkey
+FAU - Algun, Candan
+AU  - Algun C
+AD  - Department of Physical Therapy and Rehabilitation/School of Health Sciences,
+      Istanbul Medipol University, Istanbul, Turkey
+LA  - eng
+PT  - Journal Article
+DEP - 20200107
+PHST- 2019/06/27 [received]
+PHST- 2019/12/02 [accepted]
+TA  - PeerJ
+JT  - PeerJ
+AID - 8330 [pii]
+AID - 10.7717/peerj.8330 [doi]
+SO  - PeerJ. 2020 Jan 7;8:. doi:10.7717/peerj.8330.
+
+PMC - PMC7020899
+PMID- 32163365
+IS  - 2148-7197 (Print)
+IS  - 2149-2530 (Electronic)
+VI  - 21
+IP  - 1
+DP  - 2020 Jan
+TI  - Ventilator Support and Oxygen Therapy in Palliative and End-of-Life Care in the
+      Elderly.
+PG  - 54-60
+AB  - Elderly patients suffering from chronic cardio-pulmonary diseases commonly
+      experience acute respiratory failure. As in younger patients, a well-known
+      therapeutic approach of noninvasive mechanical ventilation is able to prevent
+      orotracheal intubation in a large number of severe scenarios in elderly patients.
+      In addition, this type of ventilation is frequently applied in elderly patients
+      who refuse intubation for invasive mechanical ventilation. The rate of failure of
+      noninvasive ventilation may be reduced by means of the integration of new
+      technological devices (i.e., high-flow nasal cannula, extracorporeal CO2 removal,
+      cough assistance and high-frequency chest wall oscillation, and fiberoptic
+      bronchoscopy). Ethical issues with end-of-life decisions and the choice of the
+      environment are not clearly defined in the treatment of elderly with acute
+      respiratory insufficiency.
+FAU - Scala, Raffaele
+AU  - Scala R
+AUID- ORCID: https://orcid.org/0000-0001-6448-8437
+FAU - Ciarleglio, Giuseppina
+AU  - Ciarleglio G
+AUID- ORCID: https://orcid.org/0000-0002-5661-4226
+FAU - Maccari, Uberto
+AU  - Maccari U
+AUID- ORCID: https://orcid.org/0000-0001-5489-9996
+FAU - Granese, Valentina
+AU  - Granese V
+AUID- ORCID: https://orcid.org/0000-0002-4699-6064
+FAU - Salerno, Laura
+AU  - Salerno L
+AUID- ORCID: https://orcid.org/0000-0002-0923-2970
+FAU - Madioni, Chiara
+AU  - Madioni C
+AUID- ORCID: https://orcid.org/0000-0003-0840-3472
+LA  - eng
+PT  - Journal Article
+DEP - 20200101
+PHST- 2019/08/07 [received]
+PHST- 2019/11/25 [accepted]
+TA  - Turk Thorac J
+JT  - Turkish Thoracic Journal
+AID - 10.5152/TurkThoracJ.2020.201401 [doi]
+AID - ttj-21-1-54 [pii]
+SO  - Turk Thorac J. 2020 Jan;21(1):54-60. Epub 2020 Jan 1
+      doi:10.5152/TurkThoracJ.2020.201401.

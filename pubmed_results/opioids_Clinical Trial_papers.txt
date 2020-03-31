@@ -1,0 +1,1173 @@
+
+PMC - PMC7059904
+PMID- 32142538
+IS  - 1932-6203 (Electronic)
+VI  - 15
+IP  - 3
+DP  - 2020
+TI  - The analgesic effects of buprenorphine (Vetergesic or Simbadol) in cats
+      undergoing dental extractions: A randomized, blinded, clinical trial.
+LID - e0230079
+AB  - This study aimed to evaluate the analgesic efficacy of two dosage regimens using 
+      two different concentrations of buprenorphine in cats undergoing dental
+      extractions. Twenty-three cats with oral disease (8.2 ± 2.2 years old; 4.9 ± 0.9 
+      kg) were included in a prospective, blinded, randomized clinical trial. Cats
+      randomly received either Simbadol (1.8 mg/mL; 0.24 mg/kg, subcutaneously, every
+      24h: SG, n = 11) or Vetergesic (0.3 mg/mL; 0.02 mg/kg, intramuscularly, every 8h:
+      VG, n = 12) throughout the study. They were admitted at day 0, underwent oral
+      examination/radiographs/treatment under general anesthesia
+      (buprenorphine-propofol-isoflurane-meloxicam-local anesthetic blocks) at day 1
+      and discharged at day 4. Sedation and pain were scored using the dynamic
+      interactive visual analog scale (day 1) and the Glasgow Composite Measure Pain
+      Scale-Feline (CMPS-F; up to postoperative 8 hours at day 1, 8 am, 4 pm and
+      midnight at days 2 and 3, and 8 am at day 4), respectively. Rescue analgesia was 
+      administered with hydromorphone (0.05 mg/kg intravenously on day 1 or 0.1 mg/kg
+      intramuscularly after day 2) when CMPS-F ≥ 5. Resentment defined as any type of
+      escape behavior associated with aversion to drug administration was recorded.
+      Sedation and pain scores, the prevalence of rescue analgesia and resentment
+      during drug administration were analyzed using linear mixed models and Fisher’s
+      exact test, respectively (p < 0.05). Pain and sedation scores were not
+      significantly different between groups. Sedation scores were significantly higher
+      up to postoperative 2 hours in both groups. Pain scores in SG and VG were
+      significantly higher up to postoperative 8 hours and 8 am of day 2, respectively,
+      than baseline. Prevalence of rescue analgesia and resentment were not
+      significantly different between groups (SG: 27.3%, VG: 33.3% and SG: 0%, VG: 25%,
+      respectively). Simbadol produced similar analgesic effects to Vetergesic without 
+      resentment during drug administration.
+FAU - Watanabe, Ryota
+AU  - Watanabe R
+AD  - Département de Sciences Cliniques, Faculté de Médecine Vétérinaire, Université de
+      Montréal, St-Hyacinthe, Canada
+FAU - Marcoux, Josée
+AU  - Marcoux J
+AD  - Centre Hospitalier Universitaire Vétérinaire (CHUV), Faculté de Médecine
+      Vétérinaire, Université de Montréal, St-Hyacinthe, Canada
+FAU - Evangelista, Marina C.
+AU  - Evangelista MC
+AD  - Département de Sciences Cliniques, Faculté de Médecine Vétérinaire, Université de
+      Montréal, St-Hyacinthe, Canada
+FAU - Dumais, Yvan
+AU  - Dumais Y
+AD  - Centre Hospitalier Universitaire Vétérinaire (CHUV), Faculté de Médecine
+      Vétérinaire, Université de Montréal, St-Hyacinthe, Canada
+FAU - Steagall, Paulo V.
+AU  - Steagall PV
+AUID- ORCID: 0000-0003-4150-6043
+AD  - Département de Sciences Cliniques, Faculté de Médecine Vétérinaire, Université de
+      Montréal, St-Hyacinthe, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20200306
+PHST- 2019/11/02 [received]
+PHST- 2020/02/20 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0230079 [doi]
+AID - PONE-D-19-30540 [pii]
+SO  - PLoS One. 2020 Mar 6;15(3):. doi:10.1371/journal.pone.0230079.
+
+PMC - PMC7052845
+PMID- 32161547
+IS  - 1663-9812 (Electronic)
+VI  - 11
+DP  - 2020
+TI  - Effect of Transcranial Direct Current Stimulation Combined With
+      Patient-Controlled Intravenous Morphine Analgesia on Analgesic Use and
+      Post-Thoracotomy Pain. A Prospective, Randomized, Double-Blind, Sham-Controlled, 
+      Proof-of-Concept Clinical Trial.
+LID - 125
+AB  - Background: Transcranial direct current stimulation (tDCS) is used for various
+      chronic pain conditions, but experience with tDCS for acute postoperative pain is
+      limited. This study investigated the effect of tDCS vs. sham stimulation on
+      postoperative morphine consumption and pain intensity after thoracotomy. Methods:
+      This is a single-center, prospective, randomized, double-blind, sham-controlled
+      trial in lung cancer patients undergoing thoracotomy under general anesthesia.
+      All patients received patient-controlled (PCA) intravenous morphine and
+      intercostal nerve blocks at the end of surgery. The intervention group (a-tDCS, n
+      = 31) received anodal tDCS over the left primary motor cortex (C3-Fp2) for 20 min
+      at 1.2 mA, on five consecutive days; the control group (n = 31) received sham
+      stimulation. Morphine consumption, number of analgesia demands, and pain
+      intensity at rest, with movement and with cough were recorded at the following
+      intervals: immediately before (T1), immediately after intervention (T2), then
+      every hour for 4 h (Т3–Т6), then every 6 h (Т7–Т31) for 5 days. We recorded
+      outcomes on postoperative days 1 and 5 and conducted a phone interview inquiring 
+      about chronic pain 1 year later (NCT03005548). Results: A total of 62 patients
+      enrolled, but tDCS was prematurely stopped in six patients. Fifty-five patients
+      (27 a-tDCS, 28 sham) had three or more tDCS applications and were included in the
+      analysis. Cumulative morphine dose in the first 120 h after surgery was
+      significantly lower in the tDCS [77.00 (54.00–123.00) mg] compared to sham group 
+      [112.00 (79.97–173.35) mg, p = 0.043, Cohen’s d = 0.42]. On postoperative day 5, 
+      maximum visual analog scale (VAS) pain score with cough was significantly lower
+      in the tDCS group [29.00 (20.00–39.00) vs. 44.50 (30.00–61.75) mm, p = 0.018],
+      and pain interference with cough was 80% lower [10.00 (0.00–30.00) vs. 50.00
+      (0.00–70.00), p = 0.013]. One year after surgery, there was no significant
+      difference between groups with regard to chronic pain and analgesic use.
+      Conclusion: In lung cancer patients undergoing thoracotomy, three to five tDCS
+      sessions significantly reduced cumulative postoperative morphine use, maximum VAS
+      pain scores with cough, and pain interference with cough on postoperative day 5, 
+      but there was no obvious long-term benefit from tDCS.
+FAU - Stamenkovic, Dusica M.
+AU  - Stamenkovic DM
+AD  - Department of Anesthesiology and Intensive Care, Military Medical Academy,
+      Belgrade, Serbia
+FAU - Mladenovic, Katarina
+AU  - Mladenovic K
+AD  - Department of Anesthesiology and Intensive Care, Military Medical Academy,
+      Belgrade, Serbia
+FAU - Rancic, Nemanja
+AU  - Rancic N
+AD  - Medical Faculty Military Medical Academy, University of Defense, Belgrade, Serbia
+FAU - Cvijanovic, Vlado
+AU  - Cvijanovic V
+AD  - Medical Faculty Military Medical Academy, University of Defense, Belgrade, Serbia
+FAU - Maric, Nebojsa
+AU  - Maric N
+AD  - Medical Faculty Military Medical Academy, University of Defense, Belgrade, Serbia
+FAU - Neskovic, Vojislava
+AU  - Neskovic V
+AD  - Department of Anesthesiology and Intensive Care, Military Medical Academy,
+      Belgrade, Serbia
+FAU - Zeba, Snjezana
+AU  - Zeba S
+AD  - Department of Anesthesiology and Intensive Care, Military Medical Academy,
+      Belgrade, Serbia
+FAU - Karanikolas, Menelaos
+AU  - Karanikolas M
+AD  - Department of Anesthesiology, Washington University School of Medicine, St.
+      Louis, MO, United States
+FAU - Ilic, Tihomir V.
+AU  - Ilic TV
+AD  - Medical Faculty Military Medical Academy, University of Defense, Belgrade, Serbia
+LA  - eng
+PT  - Journal Article
+DEP - 20200225
+PHST- 2019/06/04 [received]
+PHST- 2020/01/29 [accepted]
+TA  - Front Pharmacol
+JT  - Frontiers in Pharmacology
+AID - 10.3389/fphar.2020.00125 [doi]
+SO  - Front Pharmacol. 2020 Feb 25;11:. doi:10.3389/fphar.2020.00125.
+
+PMC - PMC6988196
+PMID- 31996139
+IS  - 1471-2253 (Electronic)
+VI  - 20
+DP  - 2020
+TI  - Effect of postoperative Trendelenburg position on shoulder pain after
+      gynecological laparoscopic procedures: a randomized clinical trial.
+LID - 27
+AB  - Background: Laparoscopic surgery has become a standard of care for many
+      gynecological surgeries due to its lower morbidity, pain and cost compared to
+      open techniques. Unfortunately, the use of carbon dioxide (CO2) to insufflate the
+      abdomen is the main contributor to post-operative shoulder pain. Methods: We aim 
+      to assess the effect of postoperative Trendelenburg position on shoulder pain
+      after gynecological laparoscopic procedures. We hypothesize that maintaining the 
+      patient in Trendelenburg for 24 h postoperatively will significantly decrease
+      postoperative shoulder pain and analgesic consumption. After obtaining written
+      informed consent, 108 patients were prospectively randomized into two groups. In 
+      the control group, patients underwent standard gynecologic laparoscopic
+      procedures; then after passive deflation of the pneumoperitoneum at the end of
+      the surgery, the patients were placed in supine head up position in the post
+      anesthesia care unit (PACU) and received our institution’s common postoperative
+      care. Patients in the intervention group were subjected to the same maneuver but 
+      were positioned in a Trendelenburg position (20 °) once fully awake and
+      cooperative in the PACU and retained this position for the first 24 h. Numerical 
+      rating scale (NRS) was used to assess shoulder pain and nausea upon patient
+      arrival to the PACU, at 4, 6, 12 (primary outcome) and 24 h postoperatively. Time
+      to first rescue pain medication, total rescue pain medications and overall
+      satisfaction with pain control were recorded. 101 patients were included in the
+      final data analysis. Results: Both groups were comparable in terms of baseline
+      characteristics. NRS pain scores were significantly lower in the intervention
+      group at 12 h compared to the control group (0 [0–1] versus 5 [1–4], p < 0.001), 
+      furthermore improvement in postoperative shoulder pain between time of arrival to
+      PACU (time zero) and 12 h postoperatively was significantly higher in patients
+      allocated to the experimental group compared to the control group. Pain scores
+      were significantly lower in patients allocated to the experimental group versus
+      the control group (0 [0–1] versus 5 [1–4], p < 0.001). Conclusion: In conclusion,
+      Trendelenburg position is an easy non-pharmacologic intervention that is
+      beneficial in reducing postoperative shoulder pain following gynecologic
+      laparoscopic surgery. Trial registration: Retrospectively registered at
+      Clinicaltrials.gov, registration number NCT04129385,  date of registration: June 
+      28, 2019
+FAU - Zeeni, Carine
+AU  - Zeeni C
+AD  - 0000 0004 0581 3406grid.411654.3Department of Anesthesiology, American University
+      of Beirut Medical Center, P.O. Box 11-0236, Beirut, Lebanon
+FAU - Chamsy, Dina
+AU  - Chamsy D
+AD  - 0000 0004 0581 3406grid.411654.3Department of Obstetrics and Gynecology, American
+      University of Beirut Medical Center, Beirut, Lebanon
+FAU - Khalil, Ali
+AU  - Khalil A
+AD  - 0000 0004 0581 3406grid.411654.3Department of Obstetrics and Gynecology, American
+      University of Beirut Medical Center, Beirut, Lebanon
+FAU - Abu Musa, Antoine
+AU  - Abu Musa A
+AD  - 0000 0004 0581 3406grid.411654.3Department of Obstetrics and Gynecology, American
+      University of Beirut Medical Center, Beirut, Lebanon
+FAU - Al Hassanieh, Majed
+AU  - Al Hassanieh M
+AD  - 0000 0004 0581 3406grid.411654.3Department of Anesthesiology, American University
+      of Beirut Medical Center, P.O. Box 11-0236, Beirut, Lebanon
+FAU - Shebbo, Fadia
+AU  - Shebbo F
+AD  - 0000 0004 0581 3406grid.411654.3Department of Anesthesiology, American University
+      of Beirut Medical Center, P.O. Box 11-0236, Beirut, Lebanon
+FAU - Nassif, Joseph
+AU  - Nassif J
+AUID- ORCID: 0000-0003-0937-6533
+AD  - 0000 0004 0581 3406grid.411654.3Department of Obstetrics and Gynecology, American
+      University of Beirut Medical Center, Beirut, Lebanon
+LA  - eng
+PT  - Journal Article
+DEP - 20200129
+PHST- 2019/11/15 [received]
+PHST- 2020/01/20 [accepted]
+TA  - BMC Anesthesiol
+JT  - BMC Anesthesiology
+AID - 946 [pii]
+AID - 10.1186/s12871-020-0946-9 [doi]
+SO  - BMC Anesthesiol. 2020 Jan 29;20:. doi:10.1186/s12871-020-0946-9.
+
+PMC - PMC6969969
+PMID- 31976047
+IS  - 1989-5488 (Electronic)
+VI  - 12
+IP  - 1
+DP  - 2020 Jan
+TI  - Effect of preemptive analgesia with ibuprofen in the control of postoperative
+      pain in dental implant surgeries: A randomized, triple-blind controlled clinical 
+      trial.
+PG  - e71-8
+AB  - Background: Preemptive analgesia has as its basic principle the administration of
+      analgesics before the onset of painful stimuli, in order to reduce or prevent
+      postoperative pain, but this question is little explored in implantology. Thus,
+      this study was conducted in order to evaluate the clinical efficacy of ibuprofen 
+      in pain prevention after unit implant surgery. Material and Methods: For this
+      triple-blind, parallel, placebo-controlled and randomized clinical trial, 54
+      insertion surgeries of unitary implants were performed. Two groups have received 
+      two different protocols 1 hour before surgery: Ibuprofen group (IBU) 600 mg of
+      ibuprofen; and (2) placebo group (maize starch). The intensity of the pain was
+      evaluated through the visual analogue scale (VAS) in 6 times (1, 6, 12, 24, 48
+      and 72 hours after the surgery). Patients were instructed to take 750 mg of
+      paracetamol as rescue medication, if necessary. The occurrence and the intensity 
+      of pain were analyzed by means of an analysis of variance ANOVA with repeated
+      measurements using the general linear model procedure. Results: The IBU group had
+      significantly lower VAS scores overall (IBU = 0.30, ± 0.57; placebo = 1.14, ±
+      1.07; p<0.001) and at all times in the intra, intergroup comparisons and
+      time/group interaction than the placebo group (p<0.001). The use of rescue
+      medication was significantly lower and the postoperative time was longer in the
+      IBU group compared to placebo (p = 0.002). Conclusions: The single use of
+      ibuprofen was found to be significantly superior in reducing pain after unit
+      implant surgery compared to placebo. Key words:Analgesia, dental implants, pain, 
+      surgery, oral.
+FAU - Pereira, Gustavo-Mattos
+AU  - Pereira GM
+AD  - Department of Dental Clinics, Oral Surgery and Oral Pathology, School of
+      Dentistry, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais,
+      Brazil
+FAU - Cota, Luís-Otávio-Miranda
+AU  - Cota LOM
+AD  - Department of Dental Clinics, Oral Surgery and Oral Pathology, School of
+      Dentistry, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais,
+      Brazil
+FAU - Lima, Rafael-Paschoal-Esteves
+AU  - Lima RPE
+AD  - Department of Dental Clinics, Oral Surgery and Oral Pathology, School of
+      Dentistry, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais,
+      Brazil
+FAU - Costa, Fernando-Oliveira
+AU  - Costa FO
+AD  - Department of Dental Clinics, Oral Surgery and Oral Pathology, School of
+      Dentistry, Federal University of Minas Gerais, Belo Horizonte, Minas Gerais,
+      Brazil
+LA  - eng
+PT  - Journal Article
+DEP - 20200101
+PHST- 2019/12/09 [accepted]
+PHST- 2019/08/07 [received]
+TA  - J Clin Exp Dent
+JT  - Journal of Clinical and Experimental Dentistry
+AID - 56171 [pii]
+AID - 10.4317/medoral.56171 [doi]
+SO  - J Clin Exp Dent. 2020 Jan 1;12(1):e71-8. doi:10.4317/medoral.56171.
+
+PMC - PMC7059262
+PMID- 32143570
+IS  - 1471-2253 (Electronic)
+VI  - 20
+DP  - 2020
+TI  - Effects of ultrasound-guided paravertebral block on MMP-9 and postoperative pain 
+      in patients undergoing VATS lobectomy: a randomized, controlled clinical trial.
+LID - 59
+AB  - Background: Local anesthesia can reduce the response to surgical stress and
+      decrease the consumption of opioids, which may reduce immunosuppression and
+      potentially delay postoperative tumor recurrence. We compared paravertebral block
+      (PVB) combined with general anesthesia (GA) and general anesthesia regarding
+      their effects on postoperative pain and matrix metalloproteinase-9 (MMP-9) after 
+      video-assisted thoracoscopic surgery (VATS) lobectomy. Methods: 54 patients
+      undergoing elective VATS lobectomy at a single tertiary care, teaching hospital
+      located in Qingdao between May 2, 2018 and Sep 28, 2018 were randomised by
+      computer to either paravertebral block combined with general anesthesia or
+      general anesthesia. The primary outcomes were pain scores at rest and on cough at
+      1, 4, 24, and 48 h after surgery. The secondary outcome were plasma
+      concentrations of MMP-9, complications, and length of postoperative hospital
+      stay. Results: 75 were enrolled to the study, of whom 21 were excluded before
+      surgery. We analyzed lobectomy patients undergoing paravertebral block combined
+      with general anesthesia (n = 25) or general anesthesia (n = 24). Both groups were
+      similar regarding baseline characteristics. Pain scores at rest at 4 h and 24 h, 
+      on cough at 4 h were lower in PVB/GA group, compared with GA group (P < 0.05).
+      There were no difference in pain scores at rest at 1 h, 48 h and on cough at 1 h,
+      24 h, and 48 h between groups. Patients in the PVB/GA group showed a greater
+      decrease in plasma MMP-9 level at T1 and T2 after VATS lobectomy (P < 0.05).
+      Postoperative complications and length of stay did not differ by anesthetic
+      technique. Conclusions: The paravertebral block/general anesthesia can provide
+      statistically better pain relief and attenuate MMP-9 response to surgery and
+      after VATS lobectomy. This technique may be beneficial for patients to recover
+      rapidly after lung surgery and reduce postoperative tumor recurrence. Trial
+      registration: Chinese Clinical Trial registration number ChiCTR1800016379.
+      Registered 28 May 2018.
+FAU - Chu, Haichen
+AU  - Chu H
+AD  - grid.412521.1Department of Anesthesiology, The Affiliated Hospital of Qingdao
+      University, No.16 Jiangsu Road, Shinan District, Qingdao, China
+FAU - Dong, He
+AU  - Dong H
+AD  - grid.412521.1Department of Anesthesiology, The Affiliated Hospital of Qingdao
+      University, No.16 Jiangsu Road, Shinan District, Qingdao, China
+FAU - Wang, Yongjie
+AU  - Wang Y
+AD  - grid.412521.1Department of Thoracic Surgery, The Affiliated Hospital of Qingdao
+      University, Qingdao, China
+FAU - Niu, Zejun
+AU  - Niu Z
+AD  - grid.412521.1Department of Anesthesiology, The Affiliated Hospital of Qingdao
+      University, No.16 Jiangsu Road, Shinan District, Qingdao, China
+LA  - eng
+PT  - Journal Article
+DEP - 20200306
+PHST- 2019/11/12 [received]
+PHST- 2020/03/02 [accepted]
+TA  - BMC Anesthesiol
+JT  - BMC Anesthesiology
+AID - 976 [pii]
+AID - 10.1186/s12871-020-00976-1 [doi]
+SO  - BMC Anesthesiol. 2020 Mar 6;20:. doi:10.1186/s12871-020-00976-1.
+
+PMC - PMC7046219
+PMID- 32107487
+IS  - 1932-6203 (Electronic)
+VI  - 15
+IP  - 2
+DP  - 2020
+TI  - General anesthesia technique and perception of quality of postoperative recovery 
+      in women undergoing cholecystectomy: A randomized, double-blinded clinical trial.
+LID - e0228805
+AB  - Background: The two most common general anesthesia techniques are total
+      intravenous anesthesia (TIVA) and venous/inhalation balanced general anesthesia
+      (BGA). It is unclear whether any of these two techniques affect patient
+      perception of the quality of recovery. The aim of this randomized, double-blinded
+      clinical trial was to assess the quality of postoperative recovery of women
+      undergoing laparoscopic cholecystectomy under general anesthesia. We compared
+      patients who received TIVA with those who received BGA. We also evaluated the
+      factors that may decrease patient-perceived quality of postoperative recovery.
+      Methods: We prospectively recruited 121 women aged 18–65 years who were scheduled
+      for elective laparoscopic cholecystectomy due to cholelithiasis. These patients
+      were randomized to receive TIVA (target-controlled infusion of propofol and
+      remifentanil) or BGA (continuous remifentanil infusion and sevoflurane
+      inhalation). To measure the quality of postanesthetic and postoperative recovery,
+      we administered the Quality of Recovery-40 (QoR-40) questionnaire 24 hours after 
+      the patient awoke from anesthesia. Results: All 60 patients in the TIVA group
+      responded to QoR-40 (median, 188 points; minimum 128; maximum 200). Sixty-one
+      patients in the BGA group had a mean QoR-40 score of 186 points (median, 188
+      points; minimum 146; maximum 200). There was no significant difference in the
+      QoR-40 score between the two groups (p = 0.577). The patients who presented
+      postoperative nausea and vomiting (PONV) and pain had worse perception of the
+      quality of postoperative recovery. Conclusions: Both TIVA and BGA had a similar
+      effect on the perception of the quality of postoperative recovery in women
+      undergoing elective laparoscopic cholecystectomy. PONV and pain may negatively
+      affect patient perception of the quality of postoperative recovery.
+FAU - de Carli, Daniel
+AU  - de Carli D
+AUID- ORCID: 0000-0002-1396-201X
+AD  - Department of Anesthesiology, Jundiaí Medical School, Jundiaí, SP, Brazil
+FAU - Meletti, José Fernando Amaral
+AU  - Meletti JFA
+AD  - Department of Anesthesiology, Jundiaí Medical School, Jundiaí, SP, Brazil
+FAU - Neto, Neri Edu Urnau
+AU  - Neto NEU
+AD  - Department of Anesthesiology, Jundiaí Medical School, Jundiaí, SP, Brazil
+FAU - Martinez, Gabriel
+AU  - Martinez G
+AUID- ORCID: 0000-0003-4096-435X
+AD  - Department of Anesthesiology, Jundiaí Medical School, Jundiaí, SP, Brazil
+FAU - Kim, André Luís Corrêa
+AU  - Kim ALC
+AUID- ORCID: 0000-0002-3305-1766
+AD  - Department of Anesthesiology, Jundiaí Medical School, Jundiaí, SP, Brazil
+FAU - de Camargo, Rodrigo Pauperio Soares
+AU  - de Camargo RPS
+AD  - Department of Obstetrics and Gynecology, Jundiaí Medical School, Jundiaí, SP,
+      Brazil
+LA  - eng
+PT  - Journal Article
+DEP - 20200227
+GR  - 001. The author Carli D received financial support through a scholarship for the 
+      postgraduate program of the Jundiaí Medical School (Ph.D. degree). During 24
+      months, Carli D received R$ 2200 (Brazilian Reals) monthly, totaling R$ 52,800
+      (Brazilian Reals), equivalent to U$ 12571.URL. https://www.capes.gov.br/bolsas
+PHST- 2019/09/20 [received]
+PHST- 2020/01/21 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0228805 [doi]
+AID - PONE-D-19-25993 [pii]
+SO  - PLoS One. 2020 Feb 27;15(2):. doi:10.1371/journal.pone.0228805.
+
+PMC - PMC7074373
+PMID- 32092987
+IS  - 2077-0383 (Electronic)
+VI  - 9
+IP  - 2
+DP  - 2020 Feb
+TI  - Effect of Radial Extracorporeal Shock Wave Therapy on Pain Intensity, Functional 
+      Efficiency, and Postural Control Parameters in Patients with Chronic Low Back
+      Pain: A Randomized Clinical Trial.
+LID - 568
+AB  - Low back pain (LBP) is the leading cause of disability worldwide, placing a
+      significant economic burden on healthcare systems. Radial extracorporeal shock
+      wave therapy (rESWT) is useful in the rehabilitation of orthopedic diseases;
+      however, there is still limited evidence for patients with LBP. The aim of this
+      study was to assess the effect of rESWT on pain level, functional efficiency, and
+      parameters of postural control in patients with LBP. Participants were randomized
+      into group A (n = 20) treated with rESWT and group B (n = 20) treated with sham
+      rESWT (placebo). Both groups received conventional physiotherapy, including core 
+      stability exercises. The following tests were performed: the Laitinen Pain Scale 
+      (LPS), the Roland–Morris Questionnaire (RMQ), the original Schober Test (OST),
+      and a stabilometric platform for the assessment of postural sway, including total
+      sway path (TSP). We found that the analgesic effect was higher after rESWT,
+      especially in the follow-up’s (p < 0.05). Similar results were found for
+      functional efficiency and range of motion (p < 0.05). The improved posture
+      stability in placebo group B was not statistically significant (p > 0.05). The
+      stabilometric parameters in group A were still gradually improved and
+      statistically significant, even in follow-ups (p < 0.05). In conclusion, the
+      rESWT had a significant effect on the reduction of pain and the improvement of
+      functional condition compared to a conventional physiotherapy program. Also,
+      rESWT with core stability exercises led to significant improvements in postural
+      sway compared with conventional physiotherapy in patients with LBP.
+FAU - Walewicz, Karolina
+AU  - Walewicz K
+AUID- ORCID: https://orcid.org/0000-0002-4272-8978
+AD  - Faculty of Physiotherapy, Opole Medical School, 45-060 Opole, Poland;
+      karolina.w101@wp.pl
+FAU - Taradaj, Jakub
+AU  - Taradaj J
+AUID- ORCID: https://orcid.org/0000-0002-1796-5832
+AD  - Institute of Physiotherapy and Health Sciences, Academy of Physical Education,
+      40-065 Katowice, Poland; j.taradaj@awf.katowice.pl
+FAU - Dobrzyński, Maciej
+AU  - Dobrzyński M
+AUID- ORCID: https://orcid.org/0000-0003-2368-1534
+AD  - Department of Conservative Dentistry and Pedodontics, Wroclaw Medical University,
+      50-425 Wroclaw, Poland; maciej.dobrzynski@umed.wroc.pl
+FAU - Sopel, Mirosław
+AU  - Sopel M
+AD  - Department of Nervous System Diseases, Wroclaw Medical University, 61-618
+      Wroclaw, Poland; mirek.sopel@gmail.com
+FAU - Kowal, Mateusz
+AU  - Kowal M
+AD  - Department of Physiotherapy, Wroclaw Medical University, 51-355 Wroclaw, Poland; 
+      mateusz.kowal@umed.wroc.pl (M.K.); kptaszkowski@gmail.com (K.P.)
+FAU - Ptaszkowski, Kuba
+AU  - Ptaszkowski K
+AUID- ORCID: https://orcid.org/0000-0002-5690-5226
+AD  - Department of Physiotherapy, Wroclaw Medical University, 51-355 Wroclaw, Poland; 
+      mateusz.kowal@umed.wroc.pl (M.K.); kptaszkowski@gmail.com (K.P.)
+FAU - Dymarek, Robert
+AU  - Dymarek R
+AUID- ORCID: https://orcid.org/0000-0002-2806-1775
+AD  - Department of Nervous System Diseases, Wroclaw Medical University, 61-618
+      Wroclaw, Poland; mirek.sopel@gmail.com
+LA  - eng
+PT  - Journal Article
+DEP - 20200219
+PHST- 2020/01/09 [received]
+PHST- 2020/02/16 [accepted]
+TA  - J Clin Med
+JT  - Journal of Clinical Medicine
+AID - 10.3390/jcm9020568 [doi]
+AID - jcm-09-00568 [pii]
+SO  - J Clin Med. 2020 Feb 19;9(2):. doi:10.3390/jcm9020568.
+
+PMC - PMC7034724
+PMID- 32080103
+IS  - 0025-7974 (Print)
+IS  - 1536-5964 (Electronic)
+VI  - 99
+IP  - 8
+DP  - 2020 Feb
+TI  - Photobiomodulation therapy and transcutaneous electrical nerve stimulation on
+      chronic neck pain patients: Study protocol clinical trial (SPIRIT Compliant).
+LID - e19191
+AB  - Introduction:: Chronic neck pain is a common musculoskeletal disorder that is
+      associated with functional disability and decreased of quality of life.
+      Electrophysical agents are commonly used to relieve pain, however the effects of 
+      combined use of these agents are little studied. The objective is to investigate 
+      the efficacy of photobiomodulation and electrical stimulation to relieve pain,
+      both in isolation and combined. Materials and methods:: This a 4-arm randomized
+      placebo-controlled trial with patient and evaluator blinded. This study will be
+      performed in Department of Physical Therapy at Federal University of São Carlos, 
+      São Carlos/SP, Brazil. One hundred and forty-four patients with chronic neck pain
+      will be randomized into 4 groups: active photobiomodulation therapy with active
+      electrical stimulation, active photobiomodulation therapy, active electrical
+      stimulation, or placebo treatment. They will receive 10 sessions of treatment.
+      Primary outcome: pain intensity (measured by pain numerical rating scale)
+      posttreatment. Secondary outcomes: pain during movement, neck disability, range
+      of motion, pressure pain threshold, temporal summation, conditioned pain
+      modulation, depressive symptoms, pain catastrophizing, quality of life, analgesic
+      intake, and global perceived effect at posttreatment (10 sessions). Pain
+      intensity and global perceived effect will also be measured after 6 weeks
+      randomization. Discussion:: The findings of this study might clarify the
+      importance of using the photobiomodulation therapy and transcutaneous electrical 
+      nerve stimulation for patients with chronic neck pain. Trial registration::
+      NCT04020861.
+      https://clinicaltrials.gov/ct2/show/NCT04020861?term=NCT04020861&draw=2&rank=1.
+FAU - Rampazo, Érika Patrícia
+AU  - Rampazo ÉP
+FAU - de Andrade, Ana Laura Martins
+AU  - de Andrade ALM
+FAU - da Silva, Viviane Ribeiro
+AU  - da Silva VR
+FAU - Back, Cláudio Gregório Nuernberg
+AU  - Back CGN
+FAU - Liebano, Richard Eloin
+AU  - Liebano RE
+LA  - eng
+PT  - Journal Article
+DEP - 20200221
+PHST- 2020/01/14 [received]
+PHST- 2020/01/15 [accepted]
+TA  - Medicine (Baltimore)
+JT  - Medicine
+AID - MD-D-19-09769 [pii]
+AID - 10.1097/MD.0000000000019191 [doi]
+SO  - Medicine (Baltimore). 2020 Feb 21;99(8):. doi:10.1097/MD.0000000000019191.
+
+PMC - PMC7041614
+PMID- 32123523
+IS  - 1537-2073 (Print)
+VI  - 22
+IP  - 1
+DP  - 2020 Jan-Feb
+TI  - Cognitive Behavioral Therapy for the Management of Multiple Sclerosis–Related
+      Pain: A Randomized Clinical Trial.
+PG  - 8-14
+AB  - Background:: Pain is a common and often debilitating symptom in persons with
+      multiple sclerosis (MS). Besides interfering with daily functioning, pain in MS
+      is associated with higher levels of depression and anxiety. Although cognitive
+      behavioral therapy (CBT) for pain has been found to be an effective treatment in 
+      other populations, there has been a dearth of research in persons with MS.
+      Methods:: Persons with MS with at least moderate pain severity (N = 20) were
+      randomly assigned to one of two groups: CBT plus standard care or MS-related
+      education plus standard care, each of which met for 12 sessions. Changes in pain 
+      severity, pain interference, and depressive symptom severity from baseline to
+      15-week follow-up were assessed using a 2×2 factorial design. Participants also
+      rated their satisfaction with their treatment and accomplishment of personally
+      meaningful behavioral goals. Results:: Both treatment groups rated their
+      treatment satisfaction as very high and their behavioral goals as largely met,
+      although only the CBT plus standard care group's mean goal accomplishment ratings
+      represented significant improvement. Although there were no significant
+      differences between groups after treatment on the three primary outcomes, there
+      was an overall improvement over time for pain severity, pain interference, and
+      depressive symptom severity. Conclusions:: Cognitive behavioral therapy or
+      education-based programs may be helpful adjunctive treatments for persons with MS
+      experiencing pain.
+FAU - Gromisch, Elizabeth S.
+AU  - Gromisch ES
+FAU - Kerns, Robert D.
+AU  - Kerns RD
+FAU - Czlapinski, Rebecca
+AU  - Czlapinski R
+FAU - Beenken, Beth
+AU  - Beenken B
+FAU - Otis, John
+AU  - Otis J
+FAU - Lo, Albert C.
+AU  - Lo AC
+FAU - Beauvais, John
+AU  - Beauvais J
+LA  - eng
+PT  - Journal Article
+TA  - Int J MS Care
+JT  - International Journal of MS Care
+AID - 10.7224/1537-2073.2018-023 [doi]
+SO  - Int J MS Care. 2020 Jan-Feb;22(1):8-14. doi:10.7224/1537-2073.2018-023.
+
+PMC - PMC7079520
+PMID- 32188492
+IS  - 2050-6511 (Electronic)
+VI  - 21
+DP  - 2020
+TI  - Intravenous calcium Gluconate alleviates Lead-induced abdominal pain, a
+      randomized clinical trial.
+LID - 23
+AB  - Background: In 2016, in a lead poisoning outbreak in Iran, physicians reported
+      thousands of opium users who presented to emergency departments (EDs) with
+      intractable severe abdominal pain which did not respond to any narcotic
+      medication. During the same period of time, we investigated the efficacy of
+      intravenous calcium gluconate in alleviating lead-induced abdominal pain.
+      Methods: In a single-center, single blinded, randomized controlled trial, a
+      convenient sample of adult opium-addicted patients who presented to an academic
+      ED with abdominal pain and had an initial diagnosis of lead poisoning were
+      included and randomly subjected to two treatment groups receiving conventional
+      treatment (morphine 0.1 mg/kg + normal saline; group 1) and conventional
+      treatment plus 1 g of intravenous calcium gluconate (group 2) to alleviate their 
+      abdominal pain. The visual analogue scale (VAS) was determined by each patient (0
+      to 100 mm) before treatment, and 15, 30, and 60 min after intervention. Results: 
+      A total of 50 patients (25 in each group) were enrolled. Blood lead levels, VAS
+      scores before treatment, and mean administered dose of morphine were similar
+      between the two groups. After treatment, mean VAS score dropped to 64.7± 10.4 vs.
+      67.1± 10.9 at 15 min (P = 0.437), 64.6± 10.9 vs. 58.0 ± 11.2 at 30 min
+      (P = 0.041), and 63.8± 10.7 vs. 53.6± 10.9 at 60 min (P = 0.002) in groups 1 and 
+      2, respectively. Conclusion: Intravenous calcium gluconate administration along
+      with morphine can improve abdominal pain in lead poisoning due to the ingestion
+      of lead-contaminated opium. Further interventional studies are recommended to see
+      if response to calcium salts in suspected lead-induced abdominal pain can rule in
+      lead toxicity. Trial registration: IRCT20171009036661N2. Registered 27 May 2018 -
+      Retrospectively registered,
+FAU - Mayel, Masoud
+AU  - Mayel M
+AD  - grid.412105.30000 0001 2092 9755Department of Emergency Medicine, Kerman
+      University of Medical Sciences, Kerman, Iran
+FAU - Hamzeh, Saleh
+AU  - Hamzeh S
+AD  - grid.412105.30000 0001 2092 9755Department of Emergency Medicine, Kerman
+      University of Medical Sciences, Kerman, Iran
+FAU - Rabori, Salile Shahabi
+AU  - Rabori SS
+AD  - grid.412105.30000 0001 2092 9755Department of Emergency Medicine, Kerman
+      University of Medical Sciences, Kerman, Iran
+FAU - Ghasemirad, Sareh
+AU  - Ghasemirad S
+AD  - grid.412105.30000 0001 2092 9755Department of Emergency Medicine, Kerman
+      University of Medical Sciences, Kerman, Iran
+FAU - Zamani, Nasim
+AU  - Zamani N
+AD  - grid.411600.2Social Determinants of Health Research Center, Shahid Beheshti
+      University of Medical Sciences, South Karegar Street, Tehran, Iran
+FAU - Hassanian-Moghaddam, Hossein
+AU  - Hassanian-Moghaddam H
+AD  - grid.411600.2Social Determinants of Health Research Center, Shahid Beheshti
+      University of Medical Sciences, South Karegar Street, Tehran, Iran
+LA  - eng
+PT  - Journal Article
+DEP - 20200317
+GR  - 96000230
+PHST- 2020/01/12 [received]
+PHST- 2020/03/06 [accepted]
+TA  - BMC Pharmacol Toxicol
+JT  - BMC Pharmacology & Toxicology
+AID - 403 [pii]
+AID - 10.1186/s40360-020-00403-8 [doi]
+SO  - BMC Pharmacol Toxicol. 2020 Mar 17;21:. doi:10.1186/s40360-020-00403-8.
+
+PMC - PMC7052727
+PMID- 32119096
+IS  - 2574-3805 (Electronic)
+VI  - 3
+IP  - 3
+DP  - 2020 Mar
+TI  - Effect of Pregnenolone vs Placebo on Self-reported Chronic Low Back Pain Among US
+      Military Veterans: A Randomized Clinical Trial.
+LID - e200287
+AB  - Question: Does adjunctive treatment with pregnenolone improve chronic low back
+      pain in Iraq- and Afghanistan-era US military veterans? Findings: The use of
+      pregnenolone in this randomized, double-blind, placebo-controlled clinical trial 
+      in 94 veterans with chronic low back pain resulted in a significant reduction in 
+      pain intensity ratings after 4 weeks of treatment. Meaning: These findings
+      suggest that pregnenolone may be a safe and effective adjunctive treatment for
+      veterans with chronic low back pain.
+OAB - Publisher: Abstract available from the publisher.
+OAB - Publisher: Abstract available from the publisher.
+FAU - Naylor, Jennifer C.
+AU  - Naylor JC
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Kilts, Jason D.
+AU  - Kilts JD
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Shampine, Lawrence J.
+AU  - Shampine LJ
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Parke, Gillian J.
+AU  - Parke GJ
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Wagner, H. Ryan
+AU  - Wagner HR
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Szabo, Steven T.
+AU  - Szabo ST
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Smith, Karen D.
+AU  - Smith KD
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Allen, Trina B.
+AU  - Allen TB
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Telford-Marx, Emily G.
+AU  - Telford-Marx EG
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Dunn, Charlotte E.
+AU  - Dunn CE
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Cuffe, Brian T.
+AU  - Cuffe BT
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - O’Loughlin, Susan H.
+AU  - O’Loughlin SH
+AD  - Durham VA Health Care System, Durham, North Carolina
+FAU - Marx, Christine E.
+AU  - Marx CE
+AD  - Durham VA Health Care System, Durham, North Carolina
+LA  - eng
+PT  - Journal Article
+DEP - 20200302
+PHST- 2019/10/29 [received]
+PHST- 2019/12/23 [accepted]
+TA  - JAMA Netw Open
+JT  - JAMA Network Open
+AID - 10.1001/jamanetworkopen.2020.0287 [doi]
+AID - zoi200026 [pii]
+SO  - JAMA Netw Open. 2020 Mar 2;3(3):. doi:10.1001/jamanetworkopen.2020.0287.
+
+PMC - PMC7041204
+PMID- 32093652
+IS  - 1471-2474 (Electronic)
+VI  - 21
+DP  - 2020
+TI  - PrEvention of posttraumatic contractuRes with Ketotifen 2 (PERK 2) – protocol for
+      a multicenter randomized clinical trial.
+LID - 123
+AB  - Background: Injuries and resulting stiffness around joints, especially the elbow,
+      have huge psychological effects by reducing quality of life through interference 
+      with normal daily activities such as feeding, dressing, grooming, and reaching
+      for objects. Over the last several years and through numerous research results,
+      the myofibroblast-mast cell-neuropeptide axis of fibrosis had been implicated in 
+      post-traumatic joint contractures. Pre-clinical models and a pilot randomized
+      clinical trial (RCT) demonstrated the feasibility and safety of using Ketotifen
+      Fumarate (KF), a mast cell stabilizer to prevent elbow joint contractures. This
+      study aims to evaluate the efficacy of KF in reducing joint contracture severity 
+      in adult participants with operately treated elbow fractures and/or dislocations.
+      Methods/design: A Phase III randomized, controlled, double-blinded multicentre
+      trial with 3 parallel groups (KF 2 mg or 5 mg or lactose placebo twice daily
+      orally for 6 weeks). The study population consist of adults who are at least
+      18 years old and within 7 days of injury. The types of injuries are distal
+      humerus (AO/OTA type 13) and/or proximal ulna and/or proximal radius fractures
+      (AO/OTA type 2 U1 and/or 2R1) and/or elbow dislocations (open fractures with or
+      without nerve injury may be included). A stratified randomization scheme by
+      hospital site will be used to assign eligible participants to the groups in a
+      1:1:1 ratio. The primary outcome is change in elbow flexion-extension range of
+      motion (ROM) arc from baseline to 12 weeks post-randomization. The secondary
+      outcomes are changes in ROM from baseline to 6, 24 & 52 weeks, PROMs at 2, 6, 12,
+      24 & 52 weeks and impact of KF on safety including serious adverse events and
+      fracture healing. Descriptive analysis for all outcomes will be reported and
+      ANCOVA be used to evaluate the efficacy KF over lactose placebo with respect to
+      the improvement in ROM. Discussion: The results of this study will provide
+      evidence for the use of KF in reducing post-traumatic joint contractures and
+      improving quality of life after joint injuries. Trial registration: This study
+      was prospectively registered (July 10, 2018) with ClinicalTrials.gov reference:
+      NCT03582176.
+FAU - Ademola, Ayoola
+AU  - Ademola A
+AUID- ORCID: 0000-0002-8412-6246
+AD  - 0000 0004 1936 7697grid.22072.35McCaig Institute of Bone and Joint, University of
+      Calgary, Calgary, Canada
+FAU - Hildebrand, Kevin A.
+AU  - Hildebrand KA
+AD  - 0000 0004 1936 7697grid.22072.35McCaig Institute of Bone and Joint, University of
+      Calgary, Calgary, Canada
+FAU - Schneider, Prism S.
+AU  - Schneider PS
+AD  - 0000 0004 1936 7697grid.22072.35McCaig Institute of Bone and Joint, University of
+      Calgary, Calgary, Canada
+FAU - Mohtadi, Nicholas G. H.
+AU  - Mohtadi NGH
+AD  - 0000 0004 1936 7697grid.22072.35McCaig Institute of Bone and Joint, University of
+      Calgary, Calgary, Canada
+FAU - White, Neil J.
+AU  - White NJ
+AD  - 0000 0004 1936 7697grid.22072.35Department of Surgery, University of Calgary,
+      Calgary, Canada
+FAU - Bosse, Michael J.
+AU  - Bosse MJ
+AD  - 0000 0000 9553 6721grid.239494.1Department of Orthopaedic Surgery, Carolinas
+      Medical Center, Charlotte, USA
+FAU - Garven, Alexandra
+AU  - Garven A
+AD  - 0000 0004 1936 7697grid.22072.35Department of Surgery, University of Calgary,
+      Calgary, Canada
+FAU - Walker, Richard E. A.
+AU  - Walker REA
+AD  - 0000 0004 1936 7697grid.22072.35McCaig Institute of Bone and Joint, University of
+      Calgary, Calgary, Canada
+FAU - Sajobi, Tolulope T.
+AU  - Sajobi TT
+AD  - 0000 0004 1936 7697grid.22072.35Department of Community Health Sciences,
+      University of Calgary, Calgary, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20200224
+GR  - OR160026
+PHST- 2019/10/16 [received]
+PHST- 2020/02/13 [accepted]
+TA  - BMC Musculoskelet Disord
+JT  - BMC Musculoskeletal Disorders
+AID - 3139 [pii]
+AID - 10.1186/s12891-020-3139-2 [doi]
+SO  - BMC Musculoskelet Disord. 2020 Feb 24;21:. doi:10.1186/s12891-020-3139-2.
+
+PMC - PMC7043061
+PMID- 32101145
+IS  - 1471-2253 (Electronic)
+VI  - 20
+DP  - 2020
+TI  - Effects of combined warmed preoperative forced-air and warmed perioperative
+      intravenous fluids on maternal temperature during cesarean section: a
+      prospective, randomized, controlled clinical trial.
+LID - 48
+AB  - Background: Preventing the frequent perioperative hypothermia incidents that
+      occur during elective caesarean deliveries would be beneficial. This trial aimed 
+      at evaluating the effect of preoperative forced-air warming alongside
+      perioperative intravenous fluid warming in women undergoing cesarean sections
+      under spinal anesthesia. Methods: We randomly allocated 135 women undergoing
+      elective cesarean deliveries to either the intervention group (preoperative
+      forced-air and intravenous fluid warming, n = 69) or the control group (no active
+      warming, n = 66). The primary outcome measure was the core temperature change
+      between groups from baseline to the end of the surgical procedure. Secondary
+      outcomes included thermal comfort scores, the incidences of shivering and
+      hypothermia (< 36 °C), the core temperature on arrival at the post-anesthesia
+      care unit, neonatal axillary temperature at birth, and Apgar scores. Results:
+      Two-way repeated measures ANOVA revealed significantly different core temperature
+      changes (from the pre-spinal temperature to that at the end of the procedure)
+      between groups (F = 13.022, P < 0.001). The thermal comfort scores were also
+      higher in the intervention group than in the control group (F = 9.847,
+      P = 0.002). The overall incidence of perioperative hypothermia was significantly 
+      lower in the intervention group than in the control group (20.6% vs. 51.6%,
+      P < 0.0001). Conclusions: Warming preoperative forced-air and perioperative
+      intravenous fluids may prevent maternal hypothermia, reduce maternal shivering,
+      and improve maternal thermal comfort for patients undergoing cesarean sections
+      under spinal anesthesia. Trial registration: The study was registered with the
+      Chinese Clinical Trial Registry (registration number: ChiCTR1800019117) on
+      October26, 2018.
+FAU - Ni, Ting-ting
+AU  - Ni Tt
+AD  - Department of Anesthesiology, NO.7 Hospital of Ningbo, Ningbo, Zhejiang Province 
+      China
+FAU - Zhou, Zhen-feng
+AU  - Zhou Zf
+AD  - Department of Anesthesiology, People’s Hospital of Zhejiang Provincial (People’s 
+      Hospital of Hangzhou Medicine College), Hangzhou, Zhejiang Province China
+FAU - He, Bo
+AU  - He B
+AD  - Department of Gynecology, NO.7 Hospital of Ningbo, Ningbo, Zhejiang Province
+      China
+FAU - Zhou, Qing-he
+AU  - Zhou Qh
+AD  - grid.411870.b0000 0001 0063 8301Department of Anesthesiology, The Affiliated
+      Hospital of Jiaxing University, Jiaxing, Zhejiang Province China
+LA  - eng
+PT  - Journal Article
+DEP - 20200226
+GR  - RMB 40000
+PHST- 2019/12/28 [received]
+PHST- 2020/02/21 [accepted]
+TA  - BMC Anesthesiol
+JT  - BMC Anesthesiology
+AID - 970 [pii]
+AID - 10.1186/s12871-020-00970-7 [doi]
+SO  - BMC Anesthesiol. 2020 Feb 26;20:. doi:10.1186/s12871-020-00970-7.
+
+PMC - PMC7004761
+PMID- 31977882
+IS  - 0025-7974 (Print)
+IS  - 1536-5964 (Electronic)
+VI  - 99
+IP  - 4
+DP  - 2020 Jan
+TI  - Effectiveness of supervised early exercise program in patients with arthroscopic 
+      rotator cuff repair: Study protocol clinical trial.
+LID - e18846
+AB  - Background:: Based on the available evidence, it is difficult to make a clinical 
+      decision about the best exercise program and to establish the most favorable time
+      to start postoperative treatment after rotator cuff (RC) repair. The aim of this 
+      trial is to evaluate the effects of adding a supervised early exercise program to
+      standard treatment for functional improvement and pain relief compared with
+      standard treatment alone in patients with arthroscopic RC repair. Method/design::
+      A total of 118 patients between the ages of 18 and 50 years with arthroscopic RC 
+      repair will be randomized to 2 treatment arms. The control group will receive a
+      standard exercise program based on a consensus statement on shoulder
+      rehabilitation developed by the American Society of Shoulder and Elbow
+      Therapists. The intervention group will receive a supervised early exercise
+      program in combination with standard treatment. This supervised exercise program 
+      will be based on electromyographic evidence. Three evaluations will be performed:
+      before surgery, at 6 weeks, and at 12 weeks. The primary outcome measure will be 
+      the shoulder function by the Constant–Murley questionnaire, and the secondary
+      outcome measures will be the upper limb function by the disabilities of the arm, 
+      shoulder, and hand questionnaire; pain by the visual analog scale; and the
+      shoulder range of motion by a goniometer. Discussion:: We hypothesize that
+      patients who receive a supervised early exercise program in combination with
+      standard treatment will benefit more in respect to shoulder function, pain
+      reduction, and range of motion than those who receive a standard exercise
+      program. If this is confirmed, our study can be used clinically to enhance the
+      recovery of patients with arthroscopic RC repair. Trial registration:: Brazilian 
+      registry of clinical trials UTN number U1111-1224-4143. Registered December 18,
+      2018.
+FAU - Gutiérrez-Espinoza, Héctor
+AU  - Gutiérrez-Espinoza H
+AD  - Rehabilitation and Health Research Center, CIRES, University of the Americas
+FAU - Araya-Quintanilla, Felipe
+AU  - Araya-Quintanilla F
+AD  - Rehabilitation and Health Research Center, CIRES, University of the Americas
+FAU - Pinto-Concha, Sebastian
+AU  - Pinto-Concha S
+AD  - Physical Therapy Department, Clinica Las Condes
+FAU - Zavala-González, Jonathan
+AU  - Zavala-González J
+AD  - Rehabilitation and Health Research Center, CIRES, University of the Americas
+FAU - Gana-Hervias, Gonzalo
+AU  - Gana-Hervias G
+AD  - Adult Orthopedic Department, Clinical Hospital San Borja Arriaran, Santiago,
+      Chile
+FAU - Cavero-Redondo, Iván
+AU  - Cavero-Redondo I
+AD  - Universidad de Castilla-La Mancha, Health and Social Research Center, Cuenca,
+      Spain
+FAU - Álvarez-Bueno, Celia
+AU  - Álvarez-Bueno C
+AD  - Universidad de Castilla-La Mancha, Health and Social Research Center, Cuenca,
+      Spain
+LA  - eng
+PT  - Journal Article
+DEP - 20200124
+PHST- 2019/12/18 [received]
+PHST- 2019/12/20 [accepted]
+TA  - Medicine (Baltimore)
+JT  - Medicine
+AID - MD-D-19-09771 [pii]
+AID - 10.1097/MD.0000000000018846 [doi]
+SO  - Medicine (Baltimore). 2020 Jan 24;99(4):. doi:10.1097/MD.0000000000018846.
+
+PMC - PMC6954827
+PMID- 32021141
+IS  - 1176-9106 (Print)
+IS  - 1178-2005 (Electronic)
+VI  - 15
+DP  - 2020
+TI  - Enhanced External Counterpulsation Efficacy on Exercise Endurance in COPD
+      Patients and Healthy Subjects: A Pilot Randomized Clinical Trial.
+PG  - 25-31
+AB  - Purpose: Enhanced external counterpulsation (EECP) is popular in China for the
+      treatment of coronary heart diseases, but it may be an effective treatment for
+      other populations. This study aimed to explore the effect of EECP on exercise
+      endurance of healthy people and chronic obstructive pulmonary disease (COPD)
+      patients and provide intervention measures to improve their physical condition.
+      Patients and methods: Patients were enrolled in this pilot randomized controlled 
+      trial at Jiangbin Hospital, China, between March 1st and May 30th, 2018. They
+      were randomly divided into the EECP and non-EECP groups. According to their
+      maximal oxygen uptake, the volunteers were also sub-grouped into the normal, low 
+      exercise endurance, and COPD subgroups. Differences in exercise endurance were
+      evaluated between the EECP and non-EECP groups before and after treatment.
+      Cardiopulmonary exercise testng included anaerobic threshold oxygen uptake
+      (AT-VO2Kg), maximum oxygen uptake (Max-VO2Kg), anaerobic threshold pulse
+      (AT-O2puls), anaerobic threshold metabolic equivalent (AT-Mets), and maximum
+      metabolic equivalent (Max-Mets). Results: 72 volunteers were enrolled. The EECP
+      and non-EECP groups were similar in terms of age, sex, body mass index, blood
+      pressure, heart rate, breathing frequency, AT-VO2Kg, Max-VO2Kg, AT-O2puls,
+      AT-Mets, and Max-Mets (P > 0.05) before treatment. EECP significantly improved
+      AT-VO2Kg, Max-VO2Kg, AT-O2puls, AT-Mets, and Max-Mets compared with the non-EECP 
+      group (P<0.05). When analyzed according to sub-groups, the AT-VO2Kg, Max-VO2Kg,
+      AT-O2puls, AT-Mets, and Max-Mets of the normal, low exercise endurance, and COPD 
+      subgroups were all significantly increased after EECP (P<0.05). Conclusion: EECP 
+      significantly improved the exercise endurance of normal adults, low endurance
+      adults, and COPD patients. Registration number: ChiCTR1900021993.
+FAU - Zhao, Mingming
+AU  - Zhao M
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Huang, Yanqun
+AU  - Huang Y
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Li, Lian
+AU  - Li L
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Zhou, Ling
+AU  - Zhou L
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Wu, Zhixin
+AU  - Wu Z
+AD  - Department of Intensive Medicine, Foshan Hospital of Traditional Chinese
+      Medicine, Foshan528000, People’s Republic of China
+FAU - Liu, Yujun
+AU  - Liu Y
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Zhang, Haozhe
+AU  - Zhang H
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+FAU - Hu, Caiyou
+AU  - Hu C
+AD  - Department of Sports Medicine and Cardiopulmonary Rehabilitation Center, Jiangbin
+      Hospital, Nanning, Guangxi, 530021, People’s Republic of China
+LA  - eng
+PT  - Journal Article
+DEP - 20200107
+GR  - 81460203
+PHST- 2019/07/31 [received]
+PHST- 2019/12/10 [accepted]
+TA  - Int J Chron Obstruct Pulmon Dis
+JT  - International Journal of Chronic Obstructive Pulmonary Disease
+AID - 225566 [pii]
+AID - 10.2147/COPD.S225566 [doi]
+SO  - Int J Chron Obstruct Pulmon Dis. 2020 Jan 07;15:25-31. doi:10.2147/COPD.S225566.
+
+PMC - PMC6945403
+PMID- 31907017
+IS  - 1745-6215 (Electronic)
+VI  - 21
+DP  - 2020
+TI  - A cluster randomized clinical trial to evaluate the effectiveness of the
+      Implementation of Infant Pain Practice Change (ImPaC) Resource to improve pain
+      practices in hospitalized infants: a study protocol.
+LID - 16
+AB  - Background: Hospitalized infants undergo multiple painful procedures daily.
+      Despite the significant evidence, procedural pain assessment and management
+      continues to be suboptimal. Repetitive and untreated pain at this vital
+      developmental juncture is associated with negative behavioral and
+      neurodevelopmental consequences. To address this knowledge to practice gap, we
+      developed the web-based Implementation of Infant Pain Practice Change (ImPaC)
+      Resource to guide change in healthcare professionals’ pain practice behaviors.
+      This protocol describes the evaluation of the intervention effectiveness and
+      implementation of the Resource and how organizational context influences
+      outcomes. Methods: An effectiveness-implementation hybrid type 1 design, blending
+      a cluster randomized clinical trial and a mixed-methods implementation study will
+      be used. Eighteen Neonatal Intensive Care Units (NICUs) across Canada will be
+      randomized to intervention (INT) or standard practice (SP) groups. NICUs in the
+      INT group will receive the Resource for six months; those in the SP group will
+      continue with practice as usual and will be offered the Resource after a
+      six-month waiting period. Data analysts will be blinded to group allocation. To
+      address the intervention effectiveness, the INT and SP groups will be compared on
+      clinical outcomes including the proportion of infants who have procedural pain
+      assessed and managed, and the frequency and nature of painful procedures. Data
+      will be collected at baseline (before randomization) and at completion of the
+      intervention (six months). Implementation outcomes (feasibility, fidelity,
+      implementation cost, and reach) will be measured at completion of the
+      intervention. Sustainability will be assessed at six and 12 months following the 
+      intervention. Organizational context will be assessed to examine its influence on
+      intervention and implementation outcomes. Discussion: This mixed-methods study
+      aims to determine the effectiveness and the implementation of a multifaceted
+      online strategy for changing healthcare professionals’ pain practices for
+      hospitalized infants. Implementation strategies that are easily and effectively
+      implemented are important for sustained change. The results will inform
+      healthcare professionals and decision-makers on how to address the challenges of 
+      implementing the Resource within various organizational contexts. Trial
+      registration: ClinicalTrials.gov, NCT03825822. Registered 31 January 2019.
+FAU - Bueno, Mariana
+AU  - Bueno M
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Stevens, Bonnie
+AU  - Stevens B
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Barwick, Melanie A.
+AU  - Barwick MA
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Riahi, Shirine
+AU  - Riahi S
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Li, Shelly-Anne
+AU  - Li SA
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Lanese, Alexa
+AU  - Lanese A
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Willan, Andrew R.
+AU  - Willan AR
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Synnes, Anne
+AU  - Synnes A
+AD  - 0000 0001 2288 9830grid.17091.3eUniversity of British Columbia, Pediatrics, Rm.
+      1N18, 4480 Oak Street, Vancouver, British Columbia V6H 3V4 Canada
+FAU - Estabrooks, Carole A.
+AU  - Estabrooks CA
+AD  - grid.17089.37University of Alberta, Edmonton Health Clinic Academy, Rm 5-006
+      11405 87 Avenue NW, T6G 1C9 Edmonton, Alberta Canada
+FAU - Chambers, Christine T.
+AU  - Chambers CT
+AD  - 0000 0001 0351 6983grid.414870.eDepartments of Pediatrics and Psychology &
+      Neuroscience, Dalhousie University and Centre for Pediatric Pain Research, IWK
+      Health Centre, P.O. Box 9700 5850-5980 University Ave, Halifax, Nova Scotia B3K
+      6R8 Canada
+FAU - Harrison, Denise
+AU  - Harrison D
+AD  - School of Nursing, Faculty of Health Sciences, University of Ottawa, and
+      Children’s Hospital of Eastern Ontario, 401 Smyth Road, Ottawa, K1H 8L1 Canada
+FAU - Yamada, Janet
+AU  - Yamada J
+AD  - 0000 0004 1936 9422grid.68312.3eRyerson University, Daphne Cockwell School of
+      Nursing, 350 Victoria Street, Toronto, Ontario M5B 2K3 Canada
+FAU - Stinson, Jennifer
+AU  - Stinson J
+AD  - 0000 0004 0473 9646grid.42327.30Child Health and Evaluative Sciences, The
+      Hospital for Sick Children, Peter Gilgan Centre for Research and Learning
+      (PGCRL), 686 Bay Street, 6th floor, Toronto, M5G 0A4 Canada
+FAU - Campbell-Yeo, Marsha
+AU  - Campbell-Yeo M
+AD  - 0000 0001 0351 6983grid.414870.eSchool of Nursing, Faculty of Health, Departments
+      of Pediatrics and Psychology & Neuroscience, Dalhousie University and Centre for 
+      Pediatric Pain Research, IWK Health Centre, 5869 University Ave, Halifax, B3H 4R2
+      Canada
+FAU - Noel, Melanie
+AU  - Noel M
+AD  - 0000 0004 1936 7697grid.22072.35Department of Psychology, University of Calgary, 
+      Psychology, Rm. 260, Administration Building, 539 Campus Place NW, T2N 4V8
+      Calgary, Canada
+FAU - Gibbins, Sharyn
+AU  - Gibbins S
+AD  - 0000 0004 0459 7334grid.417293.aTrillium Health Partners, Professional Practice, 
+      2200 Eglinton Ave W, Mississauga, Ontario L5M 2N1 Canada
+FAU - LeMay, Sylvie
+AU  - LeMay S
+AD  - 0000 0001 2292 3357grid.14848.31Université de Montréal, Faculty of Nursing and
+      CHU Sainte-Justine’s Research Centre, 3175 Chemin de la Côte-Sainte-Catherine,
+      Montreal, Quebec H3T 1C5 Canada
+FAU - Isaranuwatchai, Wanrudee
+AU  - Isaranuwatchai W
+AD  - 0000 0001 2157 2938grid.17063.33Institute for Health Policy, Management and
+      Evaluation, University of Toronto, 155 College Street, M5T 3M7 Toronto, Canada
+LA  - eng
+PT  - Journal Article
+DEP - 20200106
+GR  - FDN – 148452
+PHST- 2019/06/12 [received]
+PHST- 2019/10/09 [accepted]
+TA  - Trials
+JT  - Trials
+AID - 3782 [pii]
+AID - 10.1186/s13063-019-3782-9 [doi]
+SO  - Trials. 2020 Jan 6;21:. doi:10.1186/s13063-019-3782-9.
