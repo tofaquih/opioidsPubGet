@@ -1,0 +1,243 @@
+Search results for range 2020/03/31 to 2020/04/03
+Number of Records Added: 93
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 147 results
+Going to download record 1 to 10
+Added new PMID: 31759032
+Added new PMID: 32168025
+Added new PMID: 32234811
+Added new PMID: 31785054
+Added new PMID: 32235019
+Added new PMID: 32234959
+Added new PMID: 31627948
+PMID exists
+Added new PMID: 32238240
+Added new PMID: 32239222
+Going to download record 11 to 20
+Added new PMID: 31977344
+Added new PMID: 31678462
+Added new PMID: 31850674
+Added new PMID: 32168028
+PMID exists
+Added new PMID: 31813814
+Added new PMID: 31707070
+PMID exists
+Added new PMID: 31770157
+PMID exists
+Going to download record 21 to 30
+Added new PMID: 31414860
+Added new PMID: 31922965
+Added new PMID: 32168026
+Added new PMID: 31809406
+Added new PMID: 31808786
+Added new PMID: 31332514
+Added new PMID: 30741729
+Added new PMID: 32221196
+Added new PMID: 31470177
+Added new PMID: 32221197
+Going to download record 31 to 40
+Added new PMID: 32195785
+Added new PMID: 32168023
+Added new PMID: 32011351
+PMID exists
+Added new PMID: 31924487
+Added new PMID: 32233747
+Added new PMID: 32235011
+Added new PMID: 31972623
+Added new PMID: 31891695
+Added new PMID: 31521522
+Going to download record 41 to 50
+PMID exists
+Added new PMID: 32234134
+Added new PMID: 32086550
+Added new PMID: 31475505
+PMID exists
+PMID exists
+Added new PMID: 31651677
+Added new PMID: 32232953
+Added new PMID: 31989435
+PMID exists
+Going to download record 51 to 60
+Added new PMID: 31689406
+Added new PMID: 31633659
+Added new PMID: 31356424
+Added new PMID: 31338641
+PMID exists
+Added new PMID: 32193562
+Added new PMID: 32239558
+Added new PMID: 32236455
+Added new PMID: 32223858
+Added new PMID: 32213778
+Going to download record 61 to 70
+PMID exists
+Added new PMID: 32016823
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 71 to 80
+Added new PMID: 31977522
+Added new PMID: 31977518
+Added new PMID: 31977371
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Going to download record 81 to 90
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 31895059
+PMID exists
+PMID exists
+Added new PMID: 31869451
+Added new PMID: 31864888
+Added new PMID: 31858394
+PMID exists
+Going to download record 91 to 100
+PMID exists
+Added new PMID: 31838447
+Added new PMID: 31815917
+Added new PMID: 31815897
+PMID exists
+PMID exists
+Added new PMID: 31808812
+Added new PMID: 31808806
+Added new PMID: 31808796
+PMID exists
+Going to download record 101 to 110
+Added new PMID: 31808785
+PMID exists
+Added new PMID: 31792845
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 31768707
+PMID exists
+Added new PMID: 31738226
+Going to download record 111 to 120
+PMID exists
+PMID exists
+PMID exists
+Added new PMID: 31689152
+Added new PMID: 31688409
+PMID exists
+Added new PMID: 31657654
+Added new PMID: 31656053
+PMID exists
+Added new PMID: 31638081
+Going to download record 121 to 130
+Added new PMID: 31633865
+PMID exists
+PMID exists
+Added new PMID: 31567626
+Added new PMID: 31539298
+PMID exists
+Added new PMID: 31519513
+PMID exists
+PMID exists
+Added new PMID: 31419570
+Going to download record 131 to 140
+PMID exists
+Added new PMID: 31392550
+Added new PMID: 31385100
+PMID exists
+Added new PMID: 31349994
+PMID exists
+PMID exists
+Added new PMID: 31278929
+Added new PMID: 31206429
+Added new PMID: 31162185
+Going to download record 141 to 147
+Added new PMID: 31119708
+Added new PMID: 31119519
+PMID exists
+Added new PMID: 30615573
+Added new PMID: 30334366
+Added new PMID: 29996718
+Added new PMID: 29357777
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 3 results
+Going to download record 1 to 3
+Added new PMID: 30247321
+PMID exists
+Added new PMID: 31760142
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 3 results
+Going to download record 1 to 3
+PMID exists
+PMID exists
+Added new PMID: 32234712
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND (NEJM[journal] OR BMJ[journal] OR lancet[journal] OR nature[journal] OR JAMA[journal]) AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND elderly[TITLE] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 1 results
+Going to download record 1 to 1
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND elderly[TITLE] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND clinical trial[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 2 results
+Going to download record 1 to 2
+PMID exists
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND clinical trial[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND italy[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND italy[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND netherlands[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND netherlands[Title/Abstract] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND case control study AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 2 results
+Going to download record 1 to 2
+PMID exists
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND case control study AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND epidemiology AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 9 results
+Going to download record 1 to 9
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND epidemiology AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 1 results
+Going to download record 1 to 1
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND mortality AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 8 results
+Going to download record 1 to 8
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND mortality AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 1 results
+Going to download record 1 to 1
+PMID exists
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND pregnant[TITLE] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
+"""analgesics, opioid""[Pharmacological Action] OR ""analgesics, opioid""[MeSH Terms] OR (""analgesics""[All Fields] AND ""opioid""[All Fields]) OR ""opioid analgesics""[All Fields] OR ""opioids""[All Fields] AND pregnant[TITLE] AND ""2020/03/31""[PDAT] : ""2020/04/03""[PDAT]"
+Found 0 results
